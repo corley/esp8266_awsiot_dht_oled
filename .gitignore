@@ -1,0 +1,6 @@
+certs/*
+project.pymakr
+pymakr.conf
+webrepl_cfg.py
+wifi.dat
+.DS_Store
